@@ -1,0 +1,8 @@
+* TO DO
+** Set up to do file on linux an mac
+** Clean up linux
+** clean up mac
+** Push to-do repo to github
+
+* DAILY BLOG
+** 10-08-2018

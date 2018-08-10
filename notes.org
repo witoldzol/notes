@@ -1,8 +1,17 @@
 * TO DO
-** Set up to do file on linux an mac
-** Clean up linux
-** clean up mac
-** Push to-do repo to github
+** DONE Set up to do file on linux an mac
+** DONE Clean up linux
+** TODO clean up mac
+** DONE Push to-do repo to github
+** TODO Finish book : Too good to be ignored
+** TODO Finish self-authoring program
+** TODO Change oil and plug leak in Suzuki
 
 * DAILY BLOG
-** 10-08-2018
+** 10-08-2018 Friday
+First day of freedom. I've finished my fourth degree, which is a complete overkill, but hey, what can you do? 
+So what now? Prep for interview! Already got a fancy book, with hundreds of exercises to do. We'll see how this 
+fares. Not sure if I want to do the exercises in Java or stick to JS. Probably latter, given that I really want 
+to focus on just one programming language. I'm also changing the morning routine. I'll be waking up at 4am now,
+as opposed to 5.30, because I found that I'm just not gettin anything done in the afternoon after work. So yea,
+I'll give it a go and see what happens. 

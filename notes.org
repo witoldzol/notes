@@ -3,10 +3,23 @@
 ** DONE Clean up linux
 ** TODO clean up mac
 ** DONE Push to-do repo to github
-** TODO Finish book : Too good to be ignored
+** DONE Finish book : Too good to be ignored
 ** TODO Finish self-authoring program
-** TODO Change oil and plug leak in Suzuki
-
+** DONE Change oil and plug leak in Suzuki
+** Fix Suzuki leak - again
+** Clean up closet 
+** Sell camera
+** Sell keyboard - topre
+** Sell tripod
+** Sell speakers
+** Sell Suzuki
+** Clean breaks in Honda
+** Clean honda
+** Get template CV from Monika
+** Make a CV using template
+** Clean up living room
+** Take out glass to Tesco
+  
 * DAILY BLOG
 ** 10-08-2018 Friday
 First day of freedom. I've finished my fourth degree, which is a complete overkill, but hey, what can you do? 
@@ -15,9 +28,21 @@ fares. Not sure if I want to do the exercises in Java or stick to JS. Probably l
 to focus on just one programming language. I'm also changing the morning routine. I'll be waking up at 4am now,
 as opposed to 5.30, because I found that I'm just not gettin anything done in the afternoon after work. So yea,
 I'll give it a go and see what happens. 
+
 ** 11-08-2018 Saturday
 I slept in. Had yesterday meeting with a software dev team manager. Looks like his going to try and help me out.
 He wasn't very reassuring though, saying that for someone to get into tech would be tough, its easier to move out
 of it. Anywawy, he might get me a mock interview which would be great. So now I'm under pressure to prepare for it.
 Unfortunately, my company is all about Java, so I'll have to brush up on it, and store away JS for the time being.
 Whats the plan for today: study for 2 hours, and then relax I guess. 
+
+** 14-08-2018 Tuesday
+Had a tough weekend. Instead of working and prepping for interviews, I've decided to stay all day in bed
+and read One Punch Man. On Saturday I've got so drunk I've offended one of my best friends, and pulled a
+muscle at the same time. So now I can't work out for next 2 weeks at least. On top of that, on Monday
+I've take SV to mechanic, wasted 3 hours in total , paid 20 quid just to learn upon coming back home that 
+it's still leaking oil. Not happy, I need this bike gone, its getting to me. I need to tie all those loose ends.
+** 16-08-2018
+Morning study: I've learned that 2log_2 N -> N. Wow. Much amaze :)
+I've been asked yesterday at work to design and implement time tracking app for employees. Ouch. It's great
+for me, as I was looking for a small project to practice Java on. Great.
